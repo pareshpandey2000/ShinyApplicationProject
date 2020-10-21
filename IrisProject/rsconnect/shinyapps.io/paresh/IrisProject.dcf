@@ -1,0 +1,12 @@
+name: IrisProject
+title: IrisProject
+username:
+account: paresh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3063440
+bundleId: 3765560
+url: https://paresh.shinyapps.io/IrisProject/
+when: 1603264584.54328
+asMultiple: FALSE
+asStatic: FALSE
